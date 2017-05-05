@@ -1,0 +1,32 @@
+/*This is external styling file*/
+
+div#logo table tr td {
+    font-size: 2.5rem;
+    font-variant:small-caps;
+    font-weight: bold;
+    vertical-align: middle;
+    color: #126E97;
+}
+
+span#press {
+    color: #444444;
+}
+
+
+input[type="file"] {
+    font-size: 15px;
+
+}
+
+input[type="search"] {
+    height: 24px;
+    width: 220px;
+}
+
+div#search table tr td {
+    vertical-align: bottom;
+}
+
+div {
+    margin: 20px;
+}
